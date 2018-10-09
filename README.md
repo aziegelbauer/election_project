@@ -6,8 +6,9 @@ To clone repository:
 $ git clone https://github.com/zhirundo/election_project.git
 
 ## Dependencies
-Jupyter notebooks
-python
-pandas library
-R
-RStudio
+- Jupyter notebooks
+- python
+- pandas library
+- R
+- RStudio
+- data can be downloaded at: https://classic.fec.gov/disclosurep/pnational.do

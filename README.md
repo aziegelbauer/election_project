@@ -1,4 +1,4 @@
-# Election Exploratory Analysis
+# 2016 Election Wrangling and Exploratory Analysis
 This project dealt with election contributions and expenditures from the 2016 presidential election. It includes a ipynb that wrangled the data and an exploratory analysis written in R markdown.
 
 ## Installation

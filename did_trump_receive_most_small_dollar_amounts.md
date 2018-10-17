@@ -6,10 +6,6 @@ import pandas as pd
 df = pd.read_csv('election_data_wholefile.csv', index_col=False)
 ```
 
-    /anaconda3/lib/python3.6/site-packages/IPython/core/interactiveshell.py:2728: DtypeWarning: Columns (6,11,12,13) have mixed types. Specify dtype option on import or set low_memory=False.
-      interactivity=interactivity, compiler=compiler, result=result)
-
-
 
 ```python
 #subsets data of only Trump contributions
